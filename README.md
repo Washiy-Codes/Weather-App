@@ -18,3 +18,20 @@ A simple and reliable weather search application that allows users to find real-
 
 - **Frontend:** HTML, CSS, JavaScript  
 - **API:** OpenWeatherMap API (or any weather data provider)  
+- **Tools:** Git & GitHub  
+
+---
+
+## 🚀 Getting Started
+
+Follow these steps to run the project locally:
+
+### Prerequisites
+- A modern web browser  
+- Internet connection  
+- (Optional) API key from a weather service provider  
+
+### Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/weather-search-app.git
