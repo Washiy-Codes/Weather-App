@@ -4,6 +4,10 @@ A simple and reliable weather search application that allows users to find real-
 
 ---
 
+## 📸 Preview
+
+---
+
 ## 📌 Features
 
 - 🔍 Search weather by city name  
