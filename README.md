@@ -6,6 +6,8 @@ A simple and reliable weather search application that allows users to find real-
 
 ## 📸 Preview
 
+![Weather Seearch App](https://cdn-media-1.freecodecamp.org/images/0*e-_dbhFTqw7WMHwg.png)
+
 ---
 
 ## 📌 Features
