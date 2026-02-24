@@ -37,7 +37,4 @@ Follow these steps to run the project locally:
 - Internet connection  
 - (Optional) API key from a weather service provider  
 
-### Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/weather-search-app.git
+---
